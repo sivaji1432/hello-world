@@ -1,2 +1,2 @@
 # hello-world
-this sivaji practicing working with github
+this sivaji practicing working with githu
